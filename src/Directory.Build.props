@@ -2,7 +2,7 @@
 
   <!-- Build configuration -->
   <PropertyGroup>
-    <LangVersion>13.0</LangVersion>
+    <LangVersion>14.0</LangVersion>
     <ImplicitUsings>True</ImplicitUsings>
     <RootNamespace>OpenServiceBroker</RootNamespace>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
@@ -18,8 +18,8 @@
   <PropertyGroup>
     <Authors>Bastian Eicher</Authors>
     <Copyright>Copyright Bastian Eicher et al.</Copyright>
-    <RepositoryUrl>https://github.com/TypedRest/OpenServiceBroker</RepositoryUrl>
-    <PackageReleaseNotes>https://github.com/TypedRest/OpenServiceBroker/releases/tag/$(Version)</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/TypedRest/OpenServiceBroker-DotNet</RepositoryUrl>
+    <PackageReleaseNotes>https://github.com/TypedRest/OpenServiceBroker-DotNet/releases/tag/$(Version)</PackageReleaseNotes>
     <PackageProjectUrl>https://openservicebroker.typedrest.net/</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>

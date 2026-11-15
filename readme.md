@@ -1,6 +1,6 @@
 # Open Service Broker API for .NET
 
-[![Build](https://github.com/TypedRest/OpenServiceBroker/workflows/Build/badge.svg?branch=master)](https://github.com/TypedRest/OpenServiceBroker/actions?query=workflow%3ABuild)
+[![Build](https://github.com/TypedRest/OpenServiceBroker-DotNet/workflows/Build/badge.svg?branch=master)](https://github.com/TypedRest/OpenServiceBroker-DotNet/actions?query=workflow%3ABuild)
 [![API documentation](https://img.shields.io/badge/api-docs-orange.svg)](https://openservicebroker.typedrest.net/)
 
 This project provides both a server and a client .NET library for the [Open Service Broker API](https://www.openservicebrokerapi.org/) specification. This specification allows developers, ISVs, and SaaS vendors a single, simple, and elegant way to deliver services to applications running within cloud native platforms such as Cloud Foundry, OpenShift, and Kubernetes.

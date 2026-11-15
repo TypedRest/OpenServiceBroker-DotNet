@@ -1,7 +1,7 @@
 # Open Service Broker Project Template
 
 This template helps you implement a Service Broker according to the [Open Service Broker API](https://www.openservicebrokerapi.org/).  
-It uses the [OpenServiceBroker.Server library](https://github.com/TypedRest/OpenServiceBroker#server-library).
+It uses the [OpenServiceBroker.Server library](https://github.com/TypedRest/OpenServiceBroker-DotNet#server-library).
 
 ## Using the template
 

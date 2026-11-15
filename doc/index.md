@@ -51,7 +51,7 @@ services.AddControllers()
         .AddOpenServiceBroker();
 ```
 
-You can use the **[project template](https://github.com/TypedRest/OpenServiceBroker/tree/master/template)** to quickly set up a pre-configured ASP.NET Core 8.0 project with `OpenServiceBroker.Server`.
+You can use the **[project template](https://github.com/TypedRest/OpenServiceBroker-DotNet/tree/master/template)** to quickly set up a pre-configured ASP.NET Core 8.0 project with `OpenServiceBroker.Server`.
 
 ### Versioning
 
